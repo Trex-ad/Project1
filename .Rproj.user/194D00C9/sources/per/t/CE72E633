@@ -1,0 +1,32 @@
+{
+    "id": "CE72E633",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1609927468261.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "expression": "attenu",
+        "caption": "attenu",
+        "totalObservations": 182,
+        "displayedObservations": 182,
+        "variables": 5,
+        "cacheKey": "34069107",
+        "object": "attenu",
+        "environment": "package:datasets",
+        "contentUrl": "grid_resource/gridviewer.html?env=package%3Adatasets&obj=attenu&cache_key=34069107&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 98784247863,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1609927468261,
+    "read_only": false,
+    "read_only_alternatives": []
+}

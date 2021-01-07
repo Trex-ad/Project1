@@ -1,0 +1,32 @@
+{
+    "id": "38CBC452",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1609927491792.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "Indometh",
+        "caption": "Indometh",
+        "totalObservations": 66,
+        "displayedObservations": 66,
+        "variables": 3,
+        "cacheKey": "AE308885",
+        "object": "Indometh",
+        "environment": "package:datasets",
+        "contentUrl": "grid_resource/gridviewer.html?env=package%3Adatasets&obj=Indometh&cache_key=AE308885&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 93839920752472,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1609927491792,
+    "read_only": false,
+    "read_only_alternatives": []
+}
